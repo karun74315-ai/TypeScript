@@ -4,8 +4,6 @@ var a = 12;
 a = "arun";
 function abs() {
     console.log("Hello World");
-}
-function add(a, b) {
-    return a + b;
-}   
+}  return a + b;
+   
 //# sourceMappingURL=Script.js.map

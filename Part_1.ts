@@ -44,3 +44,40 @@ enum code{
     notfound = 700,
     found=600
 }
+
+let n //any 
+
+// let nn: number;
+let nn
+nn= 12;
+nn="arun"  // error
+
+
+
+// unknown
+let  bb: unknown
+bb=23
+bb="ahdf"
+
+if(typeof bb === "string"){
+    bb.toLocaleUpperCase
+}
+
+//void
+
+function abc(){
+    console.log("hey")
+}
+
+
+// null 
+
+let av: null ;
+
+// union
+
+let hh:string | null;
+
+hh = "arun";
+hh = null;
+hh=23;  // error 

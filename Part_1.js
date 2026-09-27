@@ -31,4 +31,27 @@ var code;
     code[code["notfound"] = 700] = "notfound";
     code[code["found"] = 600] = "found";
 })(code || (code = {}));
-//# sourceMappingURL=Script.js.map
+let n; //any 
+// let nn: number;
+let nn;
+nn = 12;
+nn = "arun"; // error
+// unknown
+let bb;
+bb = 23;
+bb = "ahdf";
+if (typeof bb === "string") {
+    bb.toLocaleUpperCase;
+}
+//void
+function abc() {
+    console.log("hey");
+}
+// null 
+let av;
+// union
+let hh;
+hh = "arun";
+hh = null;
+hh = 23; // error 
+//# sourceMappingURL=Part_1.js.map

@@ -11,4 +11,6 @@ var c = true; // primitive type
 var d = { name: "Arun", age: 30 }; // refrence type
 var e = [1, 2, 3, 4]; // refrence type
 var ee = e;
+// primitive 
+let aa = 12;
 //# sourceMappingURL=Script.js.map

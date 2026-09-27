@@ -25,3 +25,17 @@ let arr =[1,2,3,"Arun"];
 
 let ar: number[]=[1,2,3,"Arun"] // error
 
+//Tuples
+
+let rr: [string, number] = ["arun",23]
+let r: [string, number] = [23,"arun"] // error
+
+
+//enums
+
+enum Userrole{
+    Admin= "admin",
+    Guest = "guest"
+}
+
+Userrole.Admin

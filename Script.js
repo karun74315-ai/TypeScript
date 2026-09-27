@@ -16,4 +16,14 @@ let aa = 12;
 // Arrays
 let arr = [1, 2, 3, "Arun"];
 let ar = [1, 2, 3, "Arun"]; // error
+//Tuples
+let rr = ["arun", 23];
+let r = [23, "arun"]; // error
+//enums
+var Userrole;
+(function (Userrole) {
+    Userrole["Admin"] = "admin";
+    Userrole["Guest"] = "guest";
+})(Userrole || (Userrole = {}));
+Userrole.Admin;
 //# sourceMappingURL=Script.js.map

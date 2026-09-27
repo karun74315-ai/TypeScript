@@ -26,4 +26,9 @@ var Userrole;
     Userrole["Guest"] = "guest";
 })(Userrole || (Userrole = {}));
 Userrole.Admin;
+var code;
+(function (code) {
+    code[code["notfound"] = 700] = "notfound";
+    code[code["found"] = 600] = "found";
+})(code || (code = {}));
 //# sourceMappingURL=Script.js.map

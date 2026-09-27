@@ -39,3 +39,8 @@ enum Userrole{
 }
 
 Userrole.Admin
+
+enum code{
+    notfound = 700,
+    found=600
+}

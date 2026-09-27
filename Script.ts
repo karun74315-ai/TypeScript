@@ -18,3 +18,10 @@ var ee = e;
 
 let aa = 12;
 
+// Arrays
+
+let arr =[1,2,3,"Arun"];
+
+
+let ar: number[]=[1,2,3,"Arun"] // error
+

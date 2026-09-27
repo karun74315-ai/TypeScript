@@ -13,4 +13,7 @@ var e = [1, 2, 3, 4]; // refrence type
 var ee = e;
 // primitive 
 let aa = 12;
+// Arrays
+let arr = [1, 2, 3, "Arun"];
+let ar = [1, 2, 3, "Arun"]; // error
 //# sourceMappingURL=Script.js.map

@@ -54,3 +54,8 @@ function jj(obj:admin){
 
 type sankhya = number;
 let am: sankhya = 197;
+
+
+type value = string|number|null;
+
+let yu:value;

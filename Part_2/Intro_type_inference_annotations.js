@@ -16,4 +16,5 @@ cn({ name: "HArsh", email: "fhksdl.com", password: "fsdlfh" });
 function jj(obj) {
 }
 let am = 197;
+let yu;
 //# sourceMappingURL=Intro_type_inference_annotations.js.map

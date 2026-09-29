@@ -53,4 +53,4 @@ function jj(obj:admin){
 // let am: boolean
 
 type sankhya = number;
-let am: sankhya = 12;
+let am: sankhya = 197;

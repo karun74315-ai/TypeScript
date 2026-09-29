@@ -59,3 +59,16 @@ let am: sankhya = 197;
 type value = string|number|null;
 
 let yu:value;
+
+// union type
+
+type user = {
+    name:string,
+    email:string,   }
+
+    type Admin = {
+        name:string,
+        email:string,
+        admin:boolean
+    }
+

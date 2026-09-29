@@ -46,8 +46,11 @@ interface admin extends use{
 }
 
 function jj(obj:admin){
-    obj.
+    
 }
 
 //alises
+// let am: boolean
 
+type sankhya = number;
+let am: sankhya = 12;

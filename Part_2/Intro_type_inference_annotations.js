@@ -14,8 +14,6 @@ function cn(obj) {
 }
 cn({ name: "HArsh", email: "fhksdl.com", password: "fsdlfh" });
 function jj(obj) {
-    obj.
-    ;
 }
-//alises
+let am = 12;
 //# sourceMappingURL=Intro_type_inference_annotations.js.map
